@@ -1,8 +1,7 @@
 /* タブレット向けレイアウト */
 @media (max-width: 1000px) {
     img {
-    width: 50%;
-    margin-bottom: 50px;
+    width: 100%;
     }
   }
 }
