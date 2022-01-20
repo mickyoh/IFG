@@ -35,7 +35,8 @@
      <input>
      <p>お問い合わせ内容(必須)</p>
      <textarea></textarea>
-    <input class="contact-submit" type="submit" value="送信"></form>
+     <input class="contact-submit" type="submit" value="送信">
+    </form>
 
   </body>
 </html>
