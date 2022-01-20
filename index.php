@@ -30,11 +30,12 @@
     　　　<img src="sao.jpg" alt="">
 
     <h2>メディア取材連絡先</h2>
-    <p>メールアドレス(必須)</p>
-    <input>
-    <p>お問い合わせ内容(必須)</p>
-    <textarea></textarea>
-    
+    <form>
+     <p>メールアドレス(必須)</p>
+     <input>
+     <p>お問い合わせ内容(必須)</p>
+     <textarea></textarea>
+    <input type="submit" value="送信"></form>
 
   </body>
 </html>
